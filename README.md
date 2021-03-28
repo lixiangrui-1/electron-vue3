@@ -4,4 +4,8 @@
 
 ### yarn ｜ npm install
 
-### yarn dev ｜ npm run dev 启动项目
+### yarn start ｜ npm run start  启动项目
+
+### yarn dev | npm run dev  启动项目-热重载
+
+### yarn build ｜ npm run build 打包项目
